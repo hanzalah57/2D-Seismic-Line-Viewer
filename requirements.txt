@@ -1,0 +1,7 @@
+streamlit
+segyio
+numpy
+os
+tempfile
+matplotlib
+
